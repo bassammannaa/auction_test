@@ -17,11 +17,6 @@ class GetListOfAuctionsCall {
       headers: {
         'db': 'REAM_AUCTION',
         'access-token': 'access_token_e43c666ed8ab184d9ad4c382c9b0d8f6b4d353af',
-        'Accept': 'application/json',
-        'Access-Control-Allow-Origin': 'https://reambk.bassammannaa.com',
-        'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
-        'Access-Control-Allow-Headers': 'Content-Type, Authorization',
-        'Access-Control-Allow-Credentials': 'true',
       },
       params: {},
       returnBody: true,
